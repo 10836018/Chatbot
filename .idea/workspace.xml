@@ -2,126 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf762ef2-7d23-491f-8cf2-3a40cb31145b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Chatbot-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tryChatbot.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/KeywordMatcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/KeywordMatcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/bm25Matcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/bm25Matcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/deepLearning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/fuzzyMatcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/fuzzyMatcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/matcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/matcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/vectorMatcher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/wordBagMatcher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/wordWeightMatcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/QuestionAnswering/Matcher/wordWeightMatcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/RuleMatcher/rule/entertainment.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/RuleMatcher/rule/entertainment.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/RuleMatcher/rulebase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/RuleMatcher/rulebase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/chatbot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/task_modules/entertainment/entertainment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/task_modules/entertainment/entertainment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/task_modules/hotel/hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/task_modules/hotel/hotel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/task_modules/hotel/result/ddpair.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/task_modules/hotel/result/ddpair.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/task_modules/medicine/medicine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/task_modules/medicine/medicine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/task_modules/purchase/index_tele_full.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/task_modules/purchase/index_tele_full.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/task_modules/purchase/second_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/task_modules/purchase/second_links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/task_modules/purchase/second_links_keys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/task_modules/purchase/second_links_keys.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/task_modules/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/task_modules/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chatbot/util/ExceptionHandle/exceptionHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatbot/util/ExceptionHandle/exceptionHandler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_chatbot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_qa.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/speech.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Cython-0.29.14.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Cython-0.29.14.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.1.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-1.1.2.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/boto3-1.13.19.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/boto3-1.13.19.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/boto3-1.13.19.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/boto3-1.13.19.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/boto3-1.13.19.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/boto3-1.13.19.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/boto3-1.13.19.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/boto3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/boto3/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore-1.16.19.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore-1.16.19.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore-1.16.19.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore-1.16.19.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore-1.16.19.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore-1.16.19.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore-1.16.19.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/athena/2017-05-18/paginators-1.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/athena/2017-05-18/paginators-1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/athena/2017-05-18/service-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/athena/2017-05-18/service-2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/emr/2009-03-31/service-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/emr/2009-03-31/service-2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/fsx/2018-03-01/service-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/fsx/2018-03-01/service-2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/guardduty/2017-11-28/service-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/guardduty/2017-11-28/service-2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/kms/2014-11-01/service-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/kms/2014-11-01/service-2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/sagemaker/2017-07-24/service-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/sagemaker/2017-07-24/service-2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/worklink/2018-09-25/service-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/data/worklink/2018-09-25/service-2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/session.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/signers.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/botocore/signers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bz2file-0.98-py3.7.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bz2file-0.98-py3.7.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bz2file-0.98-py3.7.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bz2file-0.98-py3.7.egg-info/installed-files.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bz2file-0.98-py3.7.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bz2file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.18.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.18.4.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/smart_open-2.0.0-py3.7.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/smart_open-2.0.0-py3.7.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/asadmin" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/asadmin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/bundle_image" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/bundle_image" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/cfadmin" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/cfadmin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/cq" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/cq" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/cwutil" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/cwutil" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/cygdb.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/cygdb.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/cython.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/cython.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/cythonize.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/cythonize.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/dynamodb_dump" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/dynamodb_dump" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/dynamodb_load" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/dynamodb_load" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/elbadmin" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/elbadmin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/f2py.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/f2py.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/fetch_file" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/fetch_file" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/flask.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/flask.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/glacier" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/glacier" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/instance_events" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/instance_events" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/jp.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/jp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/kill_instance" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/kill_instance" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/launch_instance" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/launch_instance" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/list_instances" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/list_instances" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/lss3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/lss3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/mturk" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/mturk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyami_sendmail" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyami_sendmail" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/route53" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/route53" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2html.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2html.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2html4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2html4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2html5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2html5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2latex.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2latex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2man.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2man.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2odt.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2odt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2odt_prepstyles.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2odt_prepstyles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2pseudoxml.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2pseudoxml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2s5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2s5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2xetex.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2xetex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rst2xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rst2xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/rstpep2html.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/rstpep2html.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/s3put" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/s3put" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/sdbadmin" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/sdbadmin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/taskadmin" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/taskadmin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +61,10 @@
       <updated>1591184924857</updated>
       <workItem from="1591184982441" duration="708000" />
       <workItem from="1591186439429" duration="57000" />
+      <workItem from="1597546343601" duration="472000" />
+      <workItem from="1599122816298" duration="1068000" />
+      <workItem from="1600251324811" duration="2486000" />
+      <workItem from="1600707485735" duration="945000" />
     </task>
     <servers />
   </component>
@@ -186,33 +72,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591185405061">
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1600253998419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1591185405061" />
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1591186496764">
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600253998419" />
+    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1600253998419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591186496764" />
-    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1591186496763">
+    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600253998419" />
+    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1600253998419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591186496763" />
-    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1591186496763">
+    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600253998419" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1600253998419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591186496763" />
-    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1591186496763">
+    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600253998419" />
+    <state x="457" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1600707614745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591186496763" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1591185697937">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591185697937" />
+    <state x="457" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600707614745" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tryChatbotApi$tryChatbotApi.coverage" NAME="tryChatbotApi Coverage Results" MODIFIED="1591185709741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Chatbot$tryChatbotApi.coverage" NAME="tryChatbotApi Coverage Results" MODIFIED="1591186453834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Chatbot$tryChatbotApi.coverage" NAME="tryChatbotApi Coverage Results" MODIFIED="1600252646340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

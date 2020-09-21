@@ -3,6 +3,7 @@ import Chatbot.chatbot as Chatbot
 import json
 
 app = Flask(__name__)
+chatter = Chatbot.Chatbot(w2v_model_path='model/word2vec.model')
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -14,8 +15,6 @@ def hello_world():
 
         question = data["question"]
 
-        chatter = Chatbot.Chatbot(w2v_model_path='model/word2vec.model')
-
         ans = {
             'answer': chatter.waiting_loop(question)
         }
@@ -24,6 +23,7 @@ def hello_world():
 
     elif request.method == 'GET':
         return 'GET OK!'
+
 
 if __name__ == '__main__':
     app.run()
