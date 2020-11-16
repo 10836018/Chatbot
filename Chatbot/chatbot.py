@@ -59,10 +59,10 @@ class Chatbot(object):
 
     def waiting_loop(self, question):
 
-        print("你好，我是 " + self.name)
+        # print("你好，我是 " + self.name)
 
         self.speech = question
-        print(question)
+        # print(question)
         res = self.listen(self.speech)
         return res[0]
 
