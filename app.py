@@ -1,6 +1,5 @@
 from flask import Flask, request
 import Chatbot.chatbot as Chatbot
-import json
 
 app = Flask(__name__)
 chatter = Chatbot.Chatbot(w2v_model_path='model/word2vec.model')
@@ -10,14 +9,21 @@ chatter = Chatbot.Chatbot(w2v_model_path='model/word2vec.model')
 def hello_world():
 
     if request.method == 'POST':
-        data = json.loads(request.get_data().decode('utf-8'))
-        print("get POST request data: ", data)
 
-        question = data["question"]
+        # Post方法：raw
+        # data = json.loads(request.get_data().decode('utf-8'))
+        # question = data["question"]
+
+        # Post方法：form-data
+        question = request.values['question']
+
+        print("get POST request data: ", question)
 
         ans = {
             'answer': chatter.waiting_loop(question)
         }
+
+        print("answer is: ", ans)
 
         return ans
 
