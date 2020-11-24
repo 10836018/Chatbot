@@ -36,9 +36,9 @@ class MedicalListener(Task):
         僅適用於醫生模式，傳回欲問診的病症與預設答案表列
         """
         if self.doctor_mode:
-            return self.doctor_target_attr,["會","不會"]
+            return self.doctor_target_attr, ["會", "不會"]
         else:
-            return self.doctor_target_attr,None
+            return self.doctor_target_attr, None
 
     def debug(self, log=None):
 
@@ -51,7 +51,7 @@ class MedicalListener(Task):
 
         if log is not None:
             log.write("Current status is:\n")
-            log.write(json.dumps(self.symptom_dic, indent=2,ensure_ascii=False))
+            log.write(json.dumps(self.symptom_dic, indent=2, ensure_ascii=False))
 
     def restore(self, memory):
 
