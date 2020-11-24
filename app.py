@@ -6,7 +6,7 @@ chatter = Chatbot.Chatbot(w2v_model_path='model/word2vec.model')
 
 
 @app.route('/', methods=['GET', 'POST'])
-def hello_world():
+def post_question():
 
     if request.method == 'POST':
 
